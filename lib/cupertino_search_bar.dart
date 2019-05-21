@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
 
 /// Creates the Cupertino-style search bar.
 class CupertinoSearchBar extends AnimatedWidget {
